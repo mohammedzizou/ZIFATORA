@@ -172,7 +172,7 @@ class invoice_det extends StatelessWidget {
               ],
             ),
             const Text(
-              "Balance:",
+              "Balance:2222222222222222222222222222222222222222222222222222222222222222222",
               style: TextStyle(
                   color: Colors.black,
                   fontSize: 16,
